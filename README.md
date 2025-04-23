@@ -32,11 +32,7 @@ With a **strong foundation in full-stack development and deep learning**, I acti
 
 ### 🎨 **Territorial Language Detection**  
 - **AI-based Language Detection System** for regional languages.  
-- **Tools:** Python, NLP, Transformers, FastAPI, Flask 
-
-### 🍔 **Kacchi Bhai**  
-- **Online Food Ordering System** specializing in traditional cuisine.  
-- **Tools:** Webflow, MySQL, JavaScript  
+- **Tools:** Python, NLP, Transformers, FastAPI, Flask  
 
 ### 👨‍🎓 **Student Portal**  
 - **A Comprehensive Student Management System** for academic records and course registration.  
@@ -48,7 +44,11 @@ With a **strong foundation in full-stack development and deep learning**, I acti
 
 ### 🎓 **Online Student Consultancy**  
 - **An Educational Consultancy Web App** helping students find study programs abroad.  
-- **Tools:** Wix, JavaScript, MySQL 
+- **Tools:** Wix, JavaScript, MySQL
+
+### 🍔 **Kacchi Bhai**  
+- **Online Food Ordering System** specializing in traditional cuisine.  
+- **Tools:** Webflow, MySQL, JavaScript 
 
 ---
 
