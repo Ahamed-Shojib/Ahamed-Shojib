@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me  
 I am a **Web Developer & Machine Learning Enthusiast** with expertise in **Python, Django, Natural Language Processing (NLP), and AI-powered applications**.  
-With a **strong foundation in full-stack development and deep learning**, I actively build web-based AI applications and contribute to open-source projects.  
+With a **strong foundation in full-stack development and Machine learning**, I actively build web-based AI applications and contribute to open-source projects.  
 
 🎓 **BSc in CSE** | Green University of Bangladesh 
 💡 Always learning and exploring new technologies!  
