@@ -30,6 +30,10 @@ With a **strong foundation in full-stack development and Machine learning**, I a
 - **A Travel Booking Platform** with flight, hotel, and tour package management.  
 - **Tools:** Laravel, MySQL, JavaScript, Bootstrap  
 
+### 🎨 **Fake Info Detection**  
+- **AI-based Fake Detection System** for Real Information.  
+- **Tools:** Python, NLP, Transformers, LLM, Django, Gemini AI  
+
 ### 🎨 **Territorial Language Detection**  
 - **AI-based Language Detection System** for regional languages.  
 - **Tools:** Python, NLP, Transformers, FastAPI, Flask  
