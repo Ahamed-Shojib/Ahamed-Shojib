@@ -50,16 +50,14 @@ With a **strong foundation in full-stack development and Machine learning**, I a
 - **An Educational Consultancy Web App** helping students find study programs abroad.  
 - **Tools:** Wix, JavaScript, MySQL
 
-### 🍔 **Kacchi Bhai**  
-- **Online Food Ordering System** specializing in traditional cuisine.  
-- **Tools:** Webflow, MySQL, JavaScript 
+
 
 ---
 
 ## 🛠️ Languages & Tools  
 **Programming:** Python, JavaScript, C, C++, Java, PHP  
-**Frameworks:** Django, FastAPI, PyTorch, TensorFlow, Flask  
-**Databases:** MySQL, PostgreSQL  
+**Frameworks:** Django, DRF, FastAPI, PyTorch, TensorFlow, Flask  
+**Databases:** MySQL, PostgreSQL, SQLite  
 **ML Tools:** NumPy, Pandas, OpenCV, Scikit-Learn, Transformers, Tensorflow  
 **Others:** Gradio, MLflow, Seaborn, Matplotlib  
 
